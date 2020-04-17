@@ -1,0 +1,17 @@
+name: BedWars
+version: 1.0
+author: Dome_HD
+description: BedWars von Dome_HD
+main: de.elwiron.bedwars.BedWars
+depend: [Elwiron]
+commands:
+  maintenance:
+  loadWorld:
+  createmap:
+  worldtp:
+  setlocation:
+  setlobby:
+  start:
+  setshop:
+  setspawner:
+  setbed:
